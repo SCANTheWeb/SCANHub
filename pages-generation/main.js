@@ -50,6 +50,9 @@ fs.readdir(dir, function(err, files) {
       case "sc":
         title += "test+correction";
         break;
+	  case "tc":
+        title += "test+correction";
+        break;
       case "t":
         title += "test";
         break;
