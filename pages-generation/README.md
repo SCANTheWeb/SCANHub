@@ -7,6 +7,9 @@ Run this script to generate the pages for the SCAN website
  - Install [Node.js](https://nodejs.org/en/download/)
  - Create inside a folder named "tests" and place every tests (correctly named!) inside
  - Run `start.bat`
+ 
+## How to change pages on the website
+ 
  - Connect to the website with your account and go to the page to change
  - Click edit 
  - Inside the descriptif, click Source
