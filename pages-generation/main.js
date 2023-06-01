@@ -30,7 +30,7 @@ fs.readdir(dir, function(err, files) {
 		  "comments": data[5],
 		});
 	} else if(file != ".gitkeep") {
-		console.log("A file seams to be badly named : " + file);
+		console.log("A file seems to be badly named : " + file);
 	}
   });
 
